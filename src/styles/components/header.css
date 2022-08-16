@@ -1,0 +1,31 @@
+header{
+    background: #FFF;
+    width: 100vw;
+    height: 11.9375rem;
+}
+
+.top-header{
+    height: 2rem;
+    background: #000;
+    color: #FFF;
+    font-size: 14px;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    
+}
+
+.navegation-1{
+    height: 5.5625rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.navegation-2{
+    background: rgba(0, 0, 0, 0.04);
+    height: 4.375rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}

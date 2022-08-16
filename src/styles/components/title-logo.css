@@ -1,0 +1,20 @@
+h1{
+    font-size: 25px;
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title-log-alpha{
+    color: #989898;
+}
+.title-log-max{
+    color: #FFF;
+    background: #000;
+    padding: 0px 4px;
+    border-radius: 8px;
+    margin-left: 5px;
+}

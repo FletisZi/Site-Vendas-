@@ -1,0 +1,51 @@
+/******** nav 1******/
+
+.button.-primary{
+    text-decoration: none;
+    color: #C4C4C4;
+    font-size: 13px;
+    width: 73px;
+}
+
+.busca{
+    color: #868686;
+    width: 15.375rem;
+    text-align: center;
+    padding: 10px 0;
+    max-height: 40px;
+    border: 1px solid #EDEDED;
+    border-radius: 8px;
+}
+.busca:checked{
+    border: black;
+    
+}
+
+
+/******** nav 2******/
+
+.button.-secund{
+    text-decoration: none;
+    font-size: 16px;
+    color: #222222;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button.-secund.-tree{
+    background: #000;
+    color: #FFFFFF;
+    font-size: 16px;
+    width: 10.3125rem;
+    height: 2.625rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+}
+
+.button-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
